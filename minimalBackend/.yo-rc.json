@@ -1,0 +1,23 @@
+{
+  "generator-jhipster": {
+    "applicationIndex": 1,
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "minimalBackend",
+    "buildTool": "maven",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "entities": ["Product"],
+    "jhipsterVersion": "8.11.0",
+    "jwtSecretKey": "ZTk5MWQxOGQ1OTNmMjBlNzI5ZDE3MjBjNzA1YjgyZTNjNTNkYTNmNjdiMjA0ZmJiNzYxMDY5ZjBhYjhjZjg0Zjg5MmE2ZjJiNDcwMzhkMjEyMTU2NzkzNGMyNjYzOWRjNDk5MWJmYzI0Y2ViNThhZDU3MGRlOTU3MTUyOTBiNzk=",
+    "languages": ["en"],
+    "lastLiquibaseTimestamp": 1761386459000,
+    "monorepository": true,
+    "nativeLanguage": "en",
+    "packageName": "com.example.minimal.backend",
+    "prodDatabaseType": "postgresql",
+    "serverPort": "8081",
+    "skipClient": true,
+    "skipCommitHook": true
+  }
+}
